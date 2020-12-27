@@ -26,6 +26,6 @@ Enter tooltips: developers can implement these in their D3 graphics to reveal a 
 Use the d3-tip.js plugin developed by [Justin Palmer](https://github.com/Caged)
 
 This plugin is already included in this assignment directory.
-### Project Demo
 
-![me](https://github.com/atusan/D3-challenge/blob/master/demo.gif)
+## Project Demo
+![demo](https://github.com/atusan/D3-challenge/blob/master/demo.gif)
